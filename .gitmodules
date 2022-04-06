@@ -1,0 +1,3 @@
+[submodule "cd2022"]
+	path = cd2022
+	url = https://github.com/40923152/cd2022.git
