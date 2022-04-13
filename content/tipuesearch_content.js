@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '1.Hi 大家好 是我 米老鼠 要不要進妙妙屋 \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '1.大家好 \n', 'tags': '', 'url': 'About.html'}]};
